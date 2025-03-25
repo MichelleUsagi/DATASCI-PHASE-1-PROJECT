@@ -1,4 +1,5 @@
-# Object file
+.ipynb_checkpoints/
+learn-env
 *.o
 
 # Ada Library Information
