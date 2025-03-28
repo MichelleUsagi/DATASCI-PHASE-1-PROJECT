@@ -1,4 +1,4 @@
-# DATASCI-PHASE-1-PROJECT
+# AVIATION ACCIDENTS ANALYSIS
 ## Overview
 This project analyzes aviation accident data to help the company choose the aircraft with lowest risk for business expansion. By examining accident trends and aircraft makes ,data-driven recommendations are provided to help decide on which aircraft to invest in.
 
